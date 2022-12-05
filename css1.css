@@ -1,0 +1,84 @@
+.menu{
+    width: 1455px;
+    height: 60px;
+    background-color: aquamarine;
+}
+.menu ul li {
+    float: left;
+    margin: 50px;
+    margin: 20px;
+    position: relative;
+}
+.menu ul li ul{
+    width: 100px;
+    height: 160px;
+    margin-left: -50px;
+    background-color: chartreuse;
+    display: none;
+    position: absolute;
+}
+.menu ul li:hover ul{
+    display: block;
+}
+.div1 {
+    background-image: url(img1/R-C.jpg);
+    background-attachment: fixed;
+    height: 700px;
+}
+ 
+.div1a {
+    font-size: 20px;
+    width: 400px;
+    height: 600px;
+     display: inline-block;
+}
+.p1 {
+    display: inline-block;
+    position: relative;
+    top: 200px;
+}
+ main {
+    width: 1455px;
+    
+ }
+ .dv{
+    background-color: black;
+    height: 600px;
+     
+  
+}
+.p2{
+     color: whitesmoke;
+}
+ 
+.text{
+    color: whitesmoke;
+}
+ .for{
+    width: 1000px;
+ }
+ .p2{
+    width: 900px;
+ }
+   
+    .slider {
+        width: 130px;
+        height: 100px;
+        color: whitesmoke;
+        background-color: cyan;
+        position: absolute;
+        top: 1000px;
+        left: 85%;
+        position: absolute;
+         background-attachment: fixed;
+          
+    }
+    .slider a {
+        text-decoration: none;
+    }
+    .p88{
+        font-size: small;
+        position: relative;
+        text-align: right;
+    }
+ 
